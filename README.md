@@ -1,0 +1,1 @@
+# cligei-kitchen-duty-plugin
